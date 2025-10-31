@@ -10,7 +10,7 @@
 ### 🚀 About Me  
 - 🎓 Final-year Computer Science student  
 - 💻 Love building scalable backend systems & ML-powered apps  
-- 📦 Exploring system design, MLOps & advanced gRPC  
+- 📦 Exploring system design, MLOps & cloud architecture  
 - 🧠 Focused on Deep Learning Interpretability (Grad-CAM, SHAP)  
 - 🎯 Goal: Backend/ML Engineer — 2026  
 
@@ -64,8 +64,8 @@
 
 <p align="center"> 
 <a href="https://github.com/Ashish552"> 
-<img src="https://github-readme-stats.vercel.app/api?username=Ashish552&show_icons=true&theme=tokyonight" height="160"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish552&layout=compact&theme=tokyonight" height="160"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=APMuley&show_icons=true&theme=tokyonight" height="160"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=APMuley&layout=compact&theme=tokyonight" height="160"/> 
 </a> 
 </p>
 
