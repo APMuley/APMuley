@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashish Muley
 
-<!--
-**APMuley/APMuley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Final-year CS student | Backend & ML enthusiast  
+💡 Interested in Systems, Deep Learning & distributed systems  
+🛠️ Working with Python, Java, gRPC, Spring Boot, PostgreSQL
 
-Here are some ideas to get you started:
+### 🔥 What I'm building
+- WattWise – Smart Tenant Management App
+- Deep learning interpretability project (Grad-CAM/SHAP)
+- My personal portfolio website to showcase my projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Tech Stack
+**Languages:** Python, Java, JavaScript, C, C++
+**Backend:** FastAPI, Spring Boot, Node.js, Express.js
+**Databases:** PostgreSQL, MySQL, MongoDB
+**AI/ML:** PyTorch, OpenCV, Tenserflow,  
+**DevOps:** Docker, Linux, Git  
+
+### 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/ashish-muley-599b9736a/) | [Portfolio Website](under-construction!)
