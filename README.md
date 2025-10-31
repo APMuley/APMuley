@@ -1,4 +1,3 @@
-```md
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/ashish-muley-599b9736a/" target="_blank">Ashish Muley</a></h1>
 
 <p align="center">
@@ -26,31 +25,38 @@
 
 ---
 
-### 🛠️ Tech Stack  
+```md
+### 🛠 Tech Stack
 
-#### 🎯 Languages  
-```python
-Python | Java | JavaScript | C | C++
-```
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 
-#### ⚙️ Backend  
-```
-FastAPI | Spring Boot | Node.js | Express.js | gRPC
-```
+**Backend:**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?logo=google&logoColor=white)
 
-#### 🗄️ Databases  
-```
-PostgreSQL | MySQL | MongoDB
-```
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 
-#### 🤖 AI/ML  
-```
-PyTorch | TensorFlow | OpenCV
-```
+**ML/AI:**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
-#### 🛠 DevOps & Tools  
-```
-Docker | Linux | Git | Postman
+**Tools:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ```
 
 ---
